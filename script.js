@@ -38,13 +38,24 @@
 
 
 
+// let n=prompt('type a number');
+// let sum=0;
+
+// for (let i=0; i<=n; i+=2){
+//     sum=sum+i;
+//     console.log (i);
+// }
+// //2,4,6,8,...
+
+
+
+
 let n=prompt('type a number');
-let sum=0;
 
-for (let i=0; i<=n; i+=2){
-    sum=sum+i;
+for (let i=0; i<=n; i++){
+    if (i%2===0){
     console.log (i);
+    }
 }
-//2,4,6,8,...
-
+//0,2,4,6,8,10....
 
