@@ -26,13 +26,25 @@
 
 
 
+// let n=prompt('type a number');
+// let sum=0;
+
+// for (let i=1; i<=n; i++){
+//     sum=sum+i;
+//     //console.log (sum);
+// }   
+//     console.log ("sum=",sum);
+
+
+
+
 let n=prompt('type a number');
 let sum=0;
 
-for (let i=1; i<=n; i++){
+for (let i=0; i<=n; i+=2){
     sum=sum+i;
-    //console.log (sum);
-}   
-    console.log ("sum=",sum);
+    console.log (i);
+}
+//2,4,6,8,...
 
 
