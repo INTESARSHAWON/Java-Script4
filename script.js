@@ -61,14 +61,22 @@
 
 
 
+// let n=prompt('type a number');
+
+// for (let i=0; i<=n; i++){
+//     if (i%2!==0){
+//         console.log (i);
+//     }
+// }
+// //1,3,5,7,9,11...
+
+
+
 let n=prompt('type a number');
+let sum=0;
 
-for (let i=0; i<=n; i++){
-    if (i%2!==0){
-        console.log (i);
-    }
-}
-//1,3,5,7,9,11...
-
-
-
+for (let i=1; i<=n; i+=2){
+    sum=sum+i;
+    console.log (i);
+}   
+//1,3,5,7..,
