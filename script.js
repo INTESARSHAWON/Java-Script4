@@ -95,10 +95,25 @@
 
 
 
-//for of loop
+// //for of loop
+
+// let str= "Intesar Shawon";
+
+// for (let i of str){
+//     console.log('i=',i);
+// }   
+
+
+
 
 let str= "Intesar Shawon";
+let size=0;
 
 for (let i of str){
     console.log('i=',i);
+    size++;
 }   
+
+console.log('size=',size);
+// string theke print koranor jonno for of loop
+
