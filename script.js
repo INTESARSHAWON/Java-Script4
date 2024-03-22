@@ -72,11 +72,23 @@
 
 
 
-let n=prompt('type a number');
-let sum=0;
+// let n=prompt('type a number');
+// let sum=0;
 
-for (let i=1; i<=n; i+=2){
-    sum=sum+i;
-    console.log (i);
-}   
-//1,3,5,7..,
+// for (let i=1; i<=n; i+=2){
+//     sum=sum+i;
+//     console.log (i);
+// }   
+// //1,3,5,7..,
+
+
+
+logic of while loop
+let n=prompt('guess a number:');
+let gameNum=25;
+
+while (n!= gameNum){
+    n=prompt('guess another number');
+}
+console.log("You are right, thank you");
+
