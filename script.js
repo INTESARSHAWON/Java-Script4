@@ -50,12 +50,25 @@
 
 
 
+// let n=prompt('type a number');
+
+// for (let i=0; i<=n; i++){
+//     if (i%2===0){
+//     console.log (i);
+//     }
+// }
+// //0,2,4,6,8,10....
+
+
+
 let n=prompt('type a number');
 
 for (let i=0; i<=n; i++){
-    if (i%2===0){
-    console.log (i);
+    if (i%2!==0){
+        console.log (i);
     }
 }
-//0,2,4,6,8,10....
+//1,3,5,7,9,11...
+
+
 
