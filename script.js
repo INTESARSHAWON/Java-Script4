@@ -106,14 +106,32 @@
 
 
 
-let str= "Intesar Shawon";
-let size=0;
+// let str= "Intesar Shawon";
+// let size=0;
 
-for (let i of str){
-    console.log('i=',i);
-    size++;
-}   
+// for (let i of str){
+//     console.log('i=',i);
+//     size++;
+// }   
 
-console.log('size=',size);
-// string theke print koranor jonno for of loop
+// console.log('size=',size);
+// // string theke print koranor jonno for of loop
+
+
+
+
+//for in loop
+
+let student = {
+    name: "Shawon",
+    age: 30,
+    cgpa: 3.5,
+    isPass: true,
+};
+
+for (let key in student){
+    console.log('key=', key, 'value=', student[key]);
+}
+
+// object theke print koranor jonno for in loop
 
