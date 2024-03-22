@@ -83,12 +83,22 @@
 
 
 
-logic of while loop
-let n=prompt('guess a number:');
-let gameNum=25;
+// // logic of while loop
+// let n=prompt('guess a number:');
+// let gameNum=25;
 
-while (n!= gameNum){
-    n=prompt('guess another number');
-}
-console.log("You are right, thank you");
+// while (n!= gameNum){
+//     n=prompt('guess another number');
+// }
+// console.log("You are right, thank you");
 
+
+
+
+//for of loop
+
+let str= "Intesar Shawon";
+
+for (let i of str){
+    console.log('i=',i);
+}   
