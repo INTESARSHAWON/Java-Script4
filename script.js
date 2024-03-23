@@ -185,7 +185,7 @@ for (let key in student){
 
 
 
-let str="SHAWOn";
-str = str.toLowerCase();
-console.log(str);
-// // ekhane str er moddhe notun value assign kora hoise, tai oi str tai print hoise
+// let str="SHAWOn";
+// str = str.toLowerCase();
+// console.log(str);
+// // // ekhane str er moddhe notun value assign kora hoise, tai oi str tai print hoise
