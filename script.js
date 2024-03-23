@@ -141,24 +141,24 @@ for (let key in student){
 
 // string
 
-let str="shawon";
-let str2="nawshin";
-// console a str likhle naam print hobe 
+// let str="shawon";
+// let str2="nawshin";
+// // console a str likhle naam print hobe 
 
-console.log(str[1]);
-console.log(str2[3]);
+// console.log(str[1]);
+// console.log(str2[3]);
 
 
 // string interpolation
 
-let obj = {
-    color:'Blue',
-    item:'Pen',
-    price: 10,
-};
+// let obj = {
+//     color:'Blue',
+//     item:'Pen',
+//     price: 10,
+// };
 
-let output= `the cost of this ${obj.color} ${obj.item} is ${obj.price} taka, not ${1+1} taka`;
-console.log(output);
+// let output= `the cost of this ${obj.color} ${obj.item} is ${obj.price} taka, not ${1+1} taka`;
+// console.log(output);
 
 // `` ei sign ta hoy, normal quote unquote er sign na
 // /n new line
@@ -167,6 +167,11 @@ console.log(output);
 
 
 
+//str method in javascript
 
+
+let str="shawon";
+console.log (str.length);
+//str.length eta length print kore
 
 
