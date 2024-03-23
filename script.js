@@ -149,6 +149,20 @@ console.log(str[1]);
 console.log(str2[3]);
 
 
+// string interpolation
+
+let obj = {
+    color:'Blue',
+    item:'Pen',
+    price: 10,
+};
+
+let output= `the cost of this ${obj.color} ${obj.item} is ${obj.price} taka, not ${1+1} taka`;
+console.log(output);
+
+// `` ei sign ta hoy, normal quote unquote er sign na
+// /n new line
+// /t new tab- egula dile duita sgn mile ekta string count hobe
 
 
 
