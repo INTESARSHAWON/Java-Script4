@@ -135,3 +135,24 @@ for (let key in student){
 
 // object theke print koranor jonno for in loop
 
+
+
+
+
+// string
+
+let str="shawon";
+let str2="nawshin";
+// console a str likhle naam print hobe 
+
+console.log(str[1]);
+console.log(str2[3]);
+
+
+
+
+
+
+
+
+
