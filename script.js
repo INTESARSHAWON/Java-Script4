@@ -177,8 +177,15 @@ for (let key in student){
 
 
 
-let str="Shawon";
-let newStr = str.toUpperCase();
-console.log(newStr);
+// let str="Shawon";
+// let newStr = str.toUpperCase();
+// console.log(newStr);
 // //str.toUpperCase() str.toLowerCase() era main string a change ane na, sekhan theke value niye notun arekta create kore
 // // puran string a kokhonoi change ashe na, possible na 
+
+
+
+let str="SHAWOn";
+str = str.toLowerCase();
+console.log(str);
+// // ekhane str er moddhe notun value assign kora hoise, tai oi str tai print hoise
