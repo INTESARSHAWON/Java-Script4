@@ -167,11 +167,18 @@ for (let key in student){
 
 
 
-//str method in javascript
+// //str method in javascript
 
 
-let str="shawon";
-console.log (str.length);
-//str.length eta length print kore
+// let str="shawon";
+// console.log (str.length);
+// //str.length eta length print kore
 
 
+
+
+let str="Shawon";
+let newStr = str.toUpperCase();
+console.log(newStr);
+// //str.toUpperCase() str.toLowerCase() era main string a change ane na, sekhan theke value niye notun arekta create kore
+// // puran string a kokhonoi change ashe na, possible na 
