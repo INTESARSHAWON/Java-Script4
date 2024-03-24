@@ -204,8 +204,8 @@
 // let str="shawon";
 // console.log(str.slice(2,5));  
 // //starting value obossoi dite hoy, end na dileo hoy, eta string slice kore dekhay
-let str="shawon";
-console.log(str.slice(2));
+// let str="shawon";
+// console.log(str.slice(2));
 
 
 
