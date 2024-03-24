@@ -198,3 +198,9 @@
 // console.log(str);
 // str.trim() er kaj hocche rmove all the whitespaces
 // str.trimRight(), str.trimLeft(), str.trimStart(), str.trimEnd()-- ei 4 ta ache, majher space roye jay
+
+
+
+let str="shawon";
+console.log(str.slice(2,5));  
+
