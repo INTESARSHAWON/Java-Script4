@@ -192,6 +192,9 @@
 
 
 
-let str="  shawon    married nawshin  ";
-str = str.trim();
-console.log(str);
+
+// let str="  shawon    married nawshin  ";
+// str = str.trim();
+// console.log(str);
+// str.trim() er kaj hocche rmove all the whitespaces
+// str.trimRight(), str.trimLeft(), str.trimStart(), str.trimEnd()-- ei 4 ta ache, majher space roye jay
