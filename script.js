@@ -192,3 +192,6 @@
 
 
 
+let str="  shawon    married nawshin  ";
+str = str.trim();
+console.log(str);
