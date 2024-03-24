@@ -122,16 +122,16 @@
 
 //for in loop
 
-let student = {
-    name: "Shawon",
-    age: 30,
-    cgpa: 3.5,
-    isPass: true,
-};
+// let student = {
+//     name: "Shawon",
+//     age: 30,
+//     cgpa: 3.5,
+//     isPass: true,
+// };
 
-for (let key in student){
-    console.log('key=', key, 'value=', student[key]);
-}
+// for (let key in student){
+//     console.log('key=', key, 'value=', student[key]);
+// }
 
 // object theke print koranor jonno for in loop
 
@@ -189,3 +189,6 @@ for (let key in student){
 // str = str.toLowerCase();
 // console.log(str);
 // // // ekhane str er moddhe notun value assign kora hoise, tai oi str tai print hoise
+
+
+
