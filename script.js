@@ -212,6 +212,8 @@ let str1="Shawon ";
 let str2= 'Nawshin ';
 let newStr=str1.concat (str2);
 console.log(newStr);
+let anotherNewStr=str2.concat (str1);
+console.log(anotherNewStr);
 
 
 
