@@ -221,8 +221,9 @@
 
 
 //str.replace
-let str= "hello";
-console.log(str.replace("lo", "p"));
+// let str= "hello";
+// console.log(str.replace("lo", "p"));
+// //replace koraer kaj kore, prthome ja ashbe sudhu oitai replace kore, pore eki jinish thakleo replace kore na
 
 
 
