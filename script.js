@@ -208,15 +208,23 @@
 // console.log(str.slice(2));
 
 // concat
-let str1="Shawon ";
-let str2= 'Nawshin ';
-let newStr=str1.concat (str2);
-console.log(newStr);
-let anotherNewStr=str2.concat (str1);
-console.log(anotherNewStr);
+// let str1="Shawon ";
+// let str2= 'Nawshin ';
+// let newStr=str1.concat (str2);
+// console.log(newStr);
+// let anotherNewStr=str2.concat (str1);
+// console.log(anotherNewStr);
 // // str1.concat (str2) eta use na kore + sign diyeo kaj sara jay, aajaira jinish eta, onkgula str a + dilei jog hoye jay
-let result= str1+ "married"  + str2;
-console.log(result);
+// let result= str1+ "married"  + str2;
+// console.log(result);
+
+
+
+//str.replace
+let str= "hello";
+console.log(str.replace("lo", "p"));
+
+
 
 
 
