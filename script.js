@@ -226,6 +226,13 @@
 // //replace koraer kaj kore, prthome ja ashbe sudhu oitai replace kore, pore eki jinish thakleo replace kore na
 
 
+// // pore eki jinish thakle str.replaceAll() use korte hoy
+let str= "hellololololo";
+console.log(str.replaceAll("lo", "p"));
+
+
+
+
 
 
 
