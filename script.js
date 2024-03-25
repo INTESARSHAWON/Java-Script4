@@ -207,5 +207,12 @@
 // let str="shawon";
 // console.log(str.slice(2));
 
+// concat
+let str1="Shawon ";
+let str2= 'Nawshin ';
+let newStr=str1.concat (str2);
+console.log(newStr);
+
+
 
 
