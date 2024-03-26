@@ -232,8 +232,10 @@
 
 
 
+// let str= "shawon";
+// console.log(str.charAt(2)); //a
 let str= "shawon";
-console.log(str.charAt(2)); //a
+console.log(str[2]); //a
 
 
 
