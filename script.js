@@ -234,8 +234,12 @@
 
 // let str= "shawon";
 // console.log(str.charAt(2)); //a
-let str= "shawon";
-console.log(str[2]); //a
+// let str= "shawon";
+// console.log(str[2]); //a
+// // upore duita code, duitai same kaj kore
+
+
+
 
 
 
