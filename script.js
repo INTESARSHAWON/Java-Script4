@@ -227,9 +227,13 @@
 
 
 // // pore eki jinish thakle str.replaceAll() use korte hoy
-let str= "hellololololo";
-console.log(str.replaceAll("lo", "p"));
+// let str= "hellololololo";
+// console.log(str.replaceAll("lo", "p"));
 
+
+
+let str= "shawon";
+console.log(str.charAt(2)); //a
 
 
 
