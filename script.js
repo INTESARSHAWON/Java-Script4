@@ -241,10 +241,10 @@
 
 
 
-let fullName= prompt("Enter Your Full Name");
-let length= fullName.length;
-let username= "@" + fullName + length;
-console.log(username);
+// let fullName= prompt("Enter Your Full Name");
+// let length= fullName.length;
+// let username= "@" + fullName + length;
+// console.log(username);
 
 
 
